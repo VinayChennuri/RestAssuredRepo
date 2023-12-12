@@ -1,0 +1,9 @@
+2023-07-12 14:40:43 INFO  log4jTest:14 - Test Start
+2023-07-12 14:40:43 WARN  log4jTest:15 - Test Fail
+2023-07-12 14:40:43 ERROR log4jTest:16 - Error Message
+2023-07-12 14:40:50 INFO  log4jTest:14 - Test Start
+2023-07-12 14:40:50 WARN  log4jTest:15 - Test Fail
+2023-07-12 14:40:50 ERROR log4jTest:16 - Error Message
+2023-07-12 14:41:21 INFO  log4jTest:14 - Test Start
+2023-07-12 14:41:21 WARN  log4jTest:15 - Test Fail
+2023-07-12 14:41:21 ERROR log4jTest:16 - Error Message
